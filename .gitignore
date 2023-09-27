@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# .vscode
+/.vscode
+
 # testing
 /coverage
 
@@ -39,3 +42,9 @@ package-lock.json
 
 yarn.lock
 
+sw.js
+sw.js.map
+workbox-3576cac3.js
+workbox-3576cac3.js.map
+
+workbox-80ca14c3.js

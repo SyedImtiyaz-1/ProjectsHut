@@ -7,7 +7,9 @@ const techStack = [
   "mongodb",
   "typescript",
   "expressjs",
-  "firebase"
+  "firebase",
+  "tailwindcss",
+  "angular"
 ];
 
 export default techStack;
